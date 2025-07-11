@@ -2,5 +2,5 @@
   command = "pip install -r requirements.txt && mkdocs build"
   publish = "site"
 
-[plugins]
+[[plugins]]
   package = "@netlify/plugin-python"
