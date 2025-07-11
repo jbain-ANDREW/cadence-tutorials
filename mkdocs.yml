@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: Cadence Tutorial Hub
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - VPN Access: vpn.md
+  - Terminal Server: terminal-server.md
+  - Cadence Tools:
+      - Schematic Entry: schematic-entry.md
+      - Layout Editor: layout-editor.md
+  - External Docs: links.md

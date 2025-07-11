@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Welcome to the Cadence Tutorial Site
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This site will help you get started using Cadence tools at CMU.
 
-## Commands
+## 📚 Tutorials
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [Getting Started](getting-started.md)
+- [VPN Setup](vpn.md)
+- [Terminal Server Access](terminal-server.md)
+- [Schematic Entry](schematic-entry.md)
+- [Layout Editor](layout-editor.md)
 
-## Project layout
+## 🔗 External Links
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Cadence Documentation](https://support.cadence.com/)
+- [CMU VPN Setup](https://www.cmu.edu/computing/remote/vpn/)
+
+---
+
+Start with the tutorials above or explore using the navigation on the left!
