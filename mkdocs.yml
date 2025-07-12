@@ -11,3 +11,6 @@ nav:
       - Schematic Entry: schematic-entry.md
       - Layout Editor: layout-editor.md
   - External Docs: links.md
+  - Editing This Site:
+      - Github Repository: github.md
+      - Style Guide: style-guide.md
