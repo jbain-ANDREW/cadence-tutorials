@@ -1,6 +1,7 @@
-# Welcome to the Cadence Tutorial Site
+# Welcome to the CMU Cadence Reference Pages
 
-This site will help you get started using Cadence tools at CMU.
+This site will help you get started with Cadence at CMU and will also explain how 
+to update the site itself (at end)
 
 ## 📚 Tutorials
 
@@ -12,7 +13,7 @@ This site will help you get started using Cadence tools at CMU.
 
 ## 🔗 External Links
 
-- [Cadence Documentation](https://support.cadence.com/)
+- [Cadence Documentation WOW](https://support.cadence.com/)
 - [CMU VPN Setup](https://www.cmu.edu/computing/remote/vpn/)
 
 ---
